@@ -1,17 +1,5 @@
 # -API-INTEGRATION
 
-**COMPANY**: CODETECH IT SOLUTIONS
-
-**NAME**: BORRA BHAVANA SREE
-
-**INTERN ID**: CT08GBP
-
-**DOMAIN**:  FULL STACK WEB DEVELOPMENT
-
-**BATCH DURATION**: JANUARY 5th, 2025 to FEBRUARY 5th, 2025
-
-**MENTOR NAME**: NEELA SANTHOSH
-
 # DESCRIPTION OF TASK PERFORMED
 WeatherApp: Your Ultimate Weather Companion
 Weather plays a crucial role in our daily lives, influencing our plans, travel, and safety. WeatherApp is a feature-rich and reliable weather application designed to provide accurate, real-time updates to users worldwide. Whether you need a quick glance at today’s temperature or a detailed forecast for the week ahead, WeatherApp ensures you stay prepared for any weather conditions.
